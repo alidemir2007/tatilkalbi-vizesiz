@@ -1,7 +1,5 @@
 # tatilkalbi-vizesiz
 https://www.tatilkalbi.com/turlar/vizesiz-turlar
-
-```markdown
 # **[Vizesiz Yurt Dışı Turları](https://www.tatilkalbi.com/turlar/vizesiz-turlar): Pasaportunuzla Özgürlüğü Keşfedin!**  
 
 🌍 **Vize işlemleriyle uğraşmadan dünyanın en güzel yerlerini keşfetmeye ne dersiniz?**  
@@ -84,4 +82,4 @@ https://www.tatilkalbi.com/turlar/vizesiz-turlar
 📍 **[Tatil Kalbi](https://www.tatilkalbi.com/)** ile 2025 tatil planınızı yapın ve sorunsuz bir seyahat deneyimi yaşayın!  
 
 🚀 **Vizesiz dünyayı keşfetmek için şimdi rezervasyon yapın!** 🌍✨
-```
+
